@@ -1,4 +1,5 @@
-# Tailwind Traders Website
+
+[![Build Status](https://dev.azure.com/ahmeds/TailWindTrader/_apis/build/status/ahmedsza.TailwindTraders-Website?branchName=master)](https://dev.azure.com/ahmeds/TailWindTrader/_build/latest?definitionId=135&branchName=master)# Tailwind Traders Website
 
 ![Tailwind Traders Website](Documents/Images/Website.png)
 
